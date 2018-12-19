@@ -1,5 +1,5 @@
 <?php
-require ('../Cadenas_php7/funcion.php');
+require '../Cadenas_php7/funcion.php';
 
 $cad1 = funcion::data ( 'cad1' );
 
